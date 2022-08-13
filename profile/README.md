@@ -1,6 +1,3 @@
-This project is devloped by:
-- [ITAMAESAN Page](https://github.com/itamaesanorg/)
-
 Our projects:
 
 SuhsiJS, Typescript + Next + TailwindCSS + FramerMotion
