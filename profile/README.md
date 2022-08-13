@@ -1,12 +1,13 @@
 This project is devloped by:
-- [ITAMAESAN](https://github.com/itamaesanorg/)
+- [ITAMAESAN Page](https://github.com/itamaesanorg/)
 
 Our projects:
 
+SuhsiJS, Typescript + Next + TailwindCSS + FramerMotion
+
+- [Sushi-JS Page](https://github.com/itamaesanorg/)
 - [SushiJS Framework](https://github.com/itamaesanorg/SushiJS)
-- [Example Boilorplate](https://github.com/sushi-js/SushiJS-Example-01)
+- [SushiJS Boilorplate](https://github.com/sushi-js/SushiJS-Example-01)
+
+Giveaway HTML Page
 - [SushiJS Giveaway](https://github.com/itamaesanorg/giveawaytool)
-
-Our demos are on the Sushi-JS page:
-
-- [Sushi-JS Page](https://github.com/sushi-js)
