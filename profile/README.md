@@ -6,7 +6,7 @@ Github Oranisations (2)
 
 About SushiJS
 ITAMAESAN developed SushiJS Framework, SushiJS, a complete utlimate NextJS 12, TypeScript, TailwindCSS with Framer Motion.
-- [The Framework, SushiJS](https://github.com/itamaesanorg/sushi-js/)
+- [The Framework, SushiJS](https://github.com/itamaesanorg/SushiJS)
 - [The Boilerplate, SushiJS](https://github.com/sushi-js/SushiJS-Example-01)
 - [Real Business Case, SushiJS](https://demo-01.sushijs.com/)
 
