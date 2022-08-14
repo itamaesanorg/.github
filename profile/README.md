@@ -1,3 +1,7 @@
+What is ITAMAESAN ORG
+Itamaesan org is
+
+
 Our projects:
 
 SuhsiJS, Typescript + Next + TailwindCSS + FramerMotion
