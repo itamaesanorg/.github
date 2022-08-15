@@ -3,7 +3,7 @@ ITAMAESAN ORG is an open source organization that aims to promote the use of ope
 - [SushiJS](https://github.com/sushi-js/)
 - [ITAMAESAN](https://github.com/itamaesanorg/)
 
-Learn with ITAMAESAN
+Learn with ITAMAESAN University
 At ITAMAESAN we are onboarding new education libraries for thoese who wants to initiate on NextJS, the core of SushiJS.
 - [How To NextJS](https://github.com/itamaesanorg/How-To-NextJS)
 - [Lab Excercise, News NextJS App](https://github.com/itamaesanorg/news-app)
