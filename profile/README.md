@@ -36,5 +36,5 @@
 - [SushiJS Site](https://sushijs.com)
 
 
-## Twitter Follow to support!
+## Twitter
 - [Twitter](https://twitter.com/itamaesanorg)
