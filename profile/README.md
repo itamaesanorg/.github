@@ -1,4 +1,5 @@
-![SUSHIJS ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT TAILWINDCSS PRISMA FRAMER GITHUB WALLPAPER](https://user-images.githubusercontent.com/5947268/185244272-494ac434-ef33-413b-a530-51a97b6d97bf.png)
+![ITAMAESAN SushiJS Wallpaper Best Light NNextJS Framework with Husky fixed](https://user-images.githubusercontent.com/5947268/185643867-81854585-1f24-470e-9836-2a8b9c62c8dd.png)
+
 
 ## ITAMAESAN
 ### ITAMAESAN ORG is an open source organization that aims to promote the use of open source software in the web development industry.
