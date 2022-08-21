@@ -11,8 +11,13 @@
 ## Learn with ITAMAESAN University
 
 ### Learn how SushiJS is built via ITAMAESAN LEARN on: How To NextJS At ITAMAESAN we are onboarding new education libraries for thoese who wants to initiate on NextJS, the core of SushiJS.
+### ITAMAESAN makes a huge effort to deal and learn on how to fix their goals everyday at the office.
+### This is why we decied to document every error and mention the author!
 
 - [How To NextJS](https://github.com/itamaesanorg/How-To-NextJS)
+- [edu](https://github.com/itamaesanorg/edu)
+- [Python Basics](https://github.com/itamaesanorg/python-basics)
+
 - [Lab Excercise, News NextJS App](https://github.com/itamaesanorg/news-app)
 
 
@@ -40,15 +45,6 @@
 
 - [Giveaway code](https://github.com/itamaesanorg/giveawaytool)
 - [Giveaway in Action](https://giveawaytool.sushijs.com/)
-
-
-
-## About Education
-
-### ITAMAESAN makes a huge effort to deal and learn on how to fix their goals everyday at the office.
-### This is why we decied to document every error and mention the author!
-
-- [edu](https://github.com/itamaesanorg/edu)
 
 
 ## Official Sites
