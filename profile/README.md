@@ -5,7 +5,8 @@
 ### ITAMAESAN ORG is an open source organization that aims to promote the use of open source software in the web development industry.
 
 - [ITAMAESAN](https://github.com/itamaesanorg/)
-- [SushiJS](https://github.com/sushi-js/)
+- [PylarOS](https://github.com/miguelgargallo/pylaros)
+- [Sushis](https://github.com/sushi-js/)
 
 
 ## Learn with ITAMAESAN University
