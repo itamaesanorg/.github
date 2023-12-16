@@ -1,5 +1,7 @@
-![ITAMAESAN SushiJS Wallpaper Best Light NNextJS Framework with Husky fixed](https://user-images.githubusercontent.com/5947268/185643867-81854585-1f24-470e-9836-2a8b9c62c8dd.png)
+> [!WARNING]  
+> We have only 1 official domain: is itamaesan.org, anything else is non official.
 
+![ITAMAESAN SushiJS Wallpaper Best Light NNextJS Framework with Husky fixed](https://user-images.githubusercontent.com/5947268/185643867-81854585-1f24-470e-9836-2a8b9c62c8dd.png)
 
 ## ITAMAESAN
 ### ITAMAESAN ORG is an open source organization that aims to promote the use of open source software in the web development industry.
@@ -55,8 +57,6 @@
 
 ## Official Sites
 - [ITAMAESAN Site](https://itamaesan.org)
-- [SushiJS Site](https://sushijs.com)
-
 
 ## Twitter
 - [Twitter](https://twitter.com/itamaesanorg)
