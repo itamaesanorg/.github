@@ -27,9 +27,6 @@
 ### ITAMAESAN developed SushiJS Framework, SushiJS, a complete utlimate NextJS 12, TypeScript, TailwindCSS with Framer Motion.
 
 - [The Framework, SushiJS](https://github.com/itamaesanorg/SushiJS)
-- [The Boilerplate, SushiJS](https://github.com/sushi-js/SushiJS-Example-01)
-- [Real Business Case, SushiJS](https://demo-01.sushijs.com/)
-
 
 ## About Wri
 
@@ -53,7 +50,7 @@
 ### Giveaway Tool is a website HTML to create giveways. Just upload and play.
 
 - [Giveaway code](https://github.com/itamaesanorg/giveawaytool)
-- [Giveaway in Action](https://giveawaytool.sushijs.com/)
+- [Giveaway in Action](https://giveawaytool.vercel.app/)
 
 
 ## Official Sites
